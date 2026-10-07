@@ -1,0 +1,13 @@
+{
+  "name": "Etiquetas do Quadro",
+  "short_name": "Etiquetas",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f8",
+  "theme_color": "#1a1f2b",
+  "lang": "pt-BR",
+  "icons": [
+    {"src": "icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
